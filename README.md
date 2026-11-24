@@ -1,2 +1,4 @@
 # nyc-airbnb-analysis
-Final Assessment project
+Participants: Gabriel Everitt and Rayyan saleh
+
+Dataset: https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
